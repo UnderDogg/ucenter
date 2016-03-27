@@ -1,6 +1,7 @@
 /vendor
 /node_modules
 .env
+.idea
 tags
 storage/debugbar
 storage/php-console.dat
